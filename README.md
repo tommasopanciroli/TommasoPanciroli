@@ -15,6 +15,6 @@ I've just finished to work on Calmora, my final project for Epicode School where
 <h3 align='center'>Languages and tools I've learned:</h3>
 
 ---
-
+<div align='center'>
 [![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap,sass,js,ts,react,redux,java,spring,postgres)](https://skillicons.dev)
-
+</div>
