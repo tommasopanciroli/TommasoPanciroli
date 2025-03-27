@@ -8,7 +8,7 @@ I've just finished to work on Calmora, my final project for Epicode School where
 - 🌱 I’m would like to learn more about Java!
 - 💬 Ask me anything about Calmora!
 - 📫 How to reach me: tommypanci@gmail.com
-- 📚 Where did I study: Epicode.com
+- 📚 Where did I study: www.epicode.com
 
 ---
 
