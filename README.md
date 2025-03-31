@@ -1,6 +1,6 @@
 ## Hi👋, I'm Tommaso Panciroli
 
-I am a Jr Web Developer with a lot of passions and one of my greatest is technology.
+I am a Jr Web Developer with lots of passions and one of my greatest is technology.
 
 I've just finished to work on Calmora, my final project for Epicode School where I graduated as web dev, if you would like to see it you can find it in my pins here on GitHub!🚀
 
